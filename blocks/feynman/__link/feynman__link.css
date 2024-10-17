@@ -6,5 +6,9 @@
     line-height: 51px;
     font-size: 36px;
     font-weight: normal;
-    text-decoration: none
+    text-decoration: none;
+  }
+  
+  .feynman__link:hover {
+    opacity: .5;
   }
